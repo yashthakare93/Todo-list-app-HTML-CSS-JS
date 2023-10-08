@@ -16,5 +16,4 @@ A simple web-based To-Do List Manager to help you keep track of your tasks and s
 - CSS
 - JavaScript
 
-## How to Use
-1. Clone this repository to your local machine:
+
